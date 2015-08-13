@@ -194,3 +194,7 @@ SaveMovie<-function(total.revolutions=1, duration=10, save.dir=NULL) {
 #	system(paste("mv movie.gif movie", i, ".gif", sep=""))
 #	rgl.clear()
 #}
+
+#PlotModel2D <- function(migrationIndividual, parameterVector=NULL, taxonNames=NULL, time.axis=FALSE, time.axis.col="black", pad.for.input=FALSE) {
+	
+#}
